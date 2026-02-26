@@ -1,3 +1,4 @@
 vless://a9aee7fe-0154-11f1-b028-272a245000aa@az1.vpnjantit.com:10002?encryption=none&security=tls&type=ws&path=%2fvpnjantit#🇦🇿 IN_AZ-TLS
 vless://a9aee7fe-0154-11f1-b028-272a245000aa@az1.vpnjantit.com:10004?encryption=none&security=none&type=ws&path=%2fvpnjantit#🇦🇿 IN_AZ-WS
+vless://2beb4f3e-ebf1-4443-b65b-f0038faee63b@188.130.208.200:9443?type=grpc&encryption=mlkem768x25519plus.native.0rtt.ppD6odHaHEgvOUuGPz71ZGiNf0bDWu2_yIprFx95LWI&path=%2F&host=&mode=auto&security=reality&pbk=60F88CQUHVAj1audIXZCTg922udLsIvwrfwDEOHfcAA&fp=chrome&sni=www.watchdocs.ftp.sh&sid=34&spx=%2F#RU%20%3C-%3E%20CZ-o225afxe
 ###### https://www.vpnjantit.com/create-free-account?type=Vless&server=az1#create
